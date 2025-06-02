@@ -231,4 +231,6 @@ void pengkurban () {
 int main () {
     pengkurban ();
     return 0;
+    
 }
+//
